@@ -8,3 +8,5 @@
 1. git add filename - до,авляет файл с именем failname
 2. git add . - добавление всех файлов
 
+Чтобы зафиксировать изменения, используем
+> git commit -m "message"
