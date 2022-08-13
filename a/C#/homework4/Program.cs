@@ -5,7 +5,7 @@ if (num1 >= 0)
 {
     while (num2 <= num1)
         {
-        Console.Write(num2);
+        Console.Write(num2 + " ");
         num2 = num2 + 2;
         }
 }
