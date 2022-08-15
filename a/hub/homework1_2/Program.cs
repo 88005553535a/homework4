@@ -11,7 +11,6 @@ else
     {
         num2 = num2 / 10;
     }
-    Console.Write($"{num2}");
     num2 = num2 % 10;
     Console.Write($"третья цифра = {num2}");
 }
